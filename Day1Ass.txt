@@ -1,0 +1,15 @@
+class Reverseno
+     {
+Public static void main(string args[])
+       {
+      int rem,rev=0;
+      while(n/=0)
+       {
+       Rem=n%10;
+       Rev=Rev*10+rem;
+       No=No/10;
+       }
+     System.out.Println("Reverse No")
+       }
+     }
+  
