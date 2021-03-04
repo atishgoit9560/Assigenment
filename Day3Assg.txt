@@ -1,0 +1,9 @@
+class Squareroot
+    {
+    Public static void main(String[]arg)
+      {
+       Double X=25;
+       Double Y=Math.Sqrt(x);
+     System.out.println("Square root is="+y);
+    }
+ }
